@@ -21,4 +21,4 @@
 
 ### System Design
 
-- [The System Design Primer]([https://dockerlabs.collabnix.com/docker/cheatsheet](https://github.com/donnemartin/system-design-primer)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
