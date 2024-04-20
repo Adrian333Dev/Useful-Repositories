@@ -22,3 +22,7 @@
 ### System Design
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+### OOP
+
+- [Object Oriented Programming Expert with TypeScript](https://github.com/jafari-dev/oop-expert-with-typescript)
