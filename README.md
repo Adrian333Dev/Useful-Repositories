@@ -7,6 +7,7 @@
     - [Docker](#docker)
     - [Postman](#postman)
     - [System Design](#system-design)
+    - [OOP](#oop)
 
 ### Docker
 
@@ -26,3 +27,4 @@
 ### OOP
 
 - [Object Oriented Programming Expert with TypeScript](https://github.com/jafari-dev/oop-expert-with-typescript)
+- [Games OOP Java FX](https://github.com/peterarsentev/games_oop_javafx) - **⭐️**
