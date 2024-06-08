@@ -8,6 +8,7 @@
     - [Postman](#postman)
     - [System Design](#system-design)
     - [OOP](#oop)
+    - [NestJS](#nestjs)
 
 ### Docker
 
@@ -28,3 +29,7 @@
 
 - [Object Oriented Programming Expert with TypeScript](https://github.com/jafari-dev/oop-expert-with-typescript)
 - [Games OOP Java FX](https://github.com/peterarsentev/games_oop_javafx) - **⭐️**
+
+### NestJS
+
+- [Awesome NestJS](https://github.com/nestjs/awesome-nestjs)
